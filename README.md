@@ -3,20 +3,16 @@
   [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
   <img src="https://komarev.com/ghpvc/?username=Richard382&label=Profile%20views&color=0e75b6&style=flat" alt="Richard382" />  
 
-  [gmail]: mailto:alexsandrstojano@gmail.com
-  [telegram]: https://t.me/cryptodev0777   
+  [gmail]: mailto:greatblueknight@gmail.com
+  [telegram]: https://   
      
-  Hi, I'm 🥇[SuperKitty](https://t.me/cryptodev0777/)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I'm 🥇[Dev Brainy](https://)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Fantasm, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
+My major skills are backend-based web and mobile application development. I have good experience with web and mobile development by using several platforms like React, Angular, Vue, Wordpress, Node, Express, ASP.Net, Laravel, Django, Java-Spring, Ruby on rails, Shopify, Wix, Webflow, Drupal, Bubble.io etc.
 
-I have developed sites using PHP, Laravel, WordPress, Codeigniter, and Python/Django/Flask and much more.
-
-Especially I have rich experience with the latest Javascript frameworks such as React, Angular and Vue.
-
-I had already built so many Websites with the mentioned skill.     
+I am good at HTML, CSS/SCSS, Javascript/Typescript, C#, Python and Java languages.
    
-And I have rich experience with YieldFarming and Dex platforms like Pancakeswap Finance, Olympus Dao, SushiSwap, Uniswap, Tomb Finance, Titano, Baked Beans, Fantasm, Horde.
+And I have rich experience with YieldFarming and Dex platforms like Pancakeswap Finance, Olympus Dao, SushiSwap, Uniswap, Tomb Finance, Titano, Baked Beans, Fantasm, Horde in Blockchain field.
 
 <div>
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320"/>
@@ -24,9 +20,9 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
   
 ### Connect with me:
 
-- 💬 Telegram : [@cryptodev0777](https://t.me/cryptodev0777)
-- 📧 Email : alexsandrstojano@gmail.com
-- 🌐 Website : [www.aleksandar.vercel.app](https://www.aleksandar.vercel.app/)
+- 💬 Telegram : [](https://)
+- 📧 Email : greatblueknight@gmail.com
+- 🌐 Website : [](https://)
 
 ### Languages and Tools:
  
@@ -40,9 +36,6 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-| <a href="https://github.com/richard382?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=richard382&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/richard382?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard382&layout=compact&theme=buefy&hide_border=true" /> </a> |
-| ------------- | ------------- |
 
 <!--   GitHub stats graph -->
 ![Richard382's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Richard382&hide_border=true&theme=github-light)
