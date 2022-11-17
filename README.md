@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Richard382&label=Profile%20views&color=0e75b6&style=flat" alt="Richard382" />  
 
   [gmail]: mailto:greatblueknight@gmail.com
-  [telegram]: https://   
+  [telegram]: [https://t.me/greatblueknight]
      
   Hi, I'm 🥇[Dev Brainy](https://)🥇, As a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
 
@@ -22,7 +22,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 
 - 💬 Telegram : [https://t.me/greatblueknight](https://t.me/greatblueknight)
 - 📧 Email : greatblueknight@gmail.com
-- 🌐 Skype : [live:.cid.3d8514171c376d25]
+- 🌐 Skype : live:.cid.3d8514171c376d25
 
 ### Languages and Tools:
  
