@@ -20,9 +20,9 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
   
 ### Connect with me:
 
-- 💬 Telegram : [](https://)
+- 💬 Telegram : [https://t.me/greatblueknight](https://t.me/greatblueknight)
 - 📧 Email : greatblueknight@gmail.com
-- 🌐 Website : [](https://)
+- 🌐 Skype : [live:.cid.3d8514171c376d25]
 
 ### Languages and Tools:
  
